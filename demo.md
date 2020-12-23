@@ -1,3 +1,5 @@
-This is a first line 
-This is a second line 
-And the third 
+This is a first line.
+
+This is a second line.
+
+And the third.
